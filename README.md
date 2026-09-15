@@ -1,6 +1,20 @@
 # 🌐 Asenkron JS & API Uygulaması
 
+<p align="center">
+  <img src="Ekran Görüntüsü (743).png" alt="Uygulama Ekran Görüntüsü" width="750">
+</p>
+
 Bu proje; modern **JavaScript (ES6+)** asenkron programlama tekniklerini (**AJAX**, **Fetch API**, **Async/Await**) kullanarak harici/yerel bir API'den dinamik veri çekmek ve kullanıcı arayüzünü anlık olarak güncellemek amacıyla geliştirilmiştir.
+
+---
+
+## 📸 Uygulama Ekran Görüntüleri
+
+<p align="center">
+  <img src="Ekran Görüntüsü (738).png" width="400">
+  <img src="Ekran Görüntüsü (739).png" width="400">
+  <img src="ekran.png" width="400">
+</p>
 
 ---
 
